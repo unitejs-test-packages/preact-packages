@@ -5,6 +5,7 @@
 * unite configure --profile=PreactJavaScript/PreactTypeScript
 * unite package --packageName=lodash
 * unite package --packageName=moment
+* unite package --packageName=underscore
 
 ## Build Operations
 
